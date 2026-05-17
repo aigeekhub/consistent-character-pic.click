@@ -1,0 +1,8 @@
+{
+  "name": "KineticID",
+  "description": "Generate a series of consistent images of the same character across multiple scenes and poses using AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
